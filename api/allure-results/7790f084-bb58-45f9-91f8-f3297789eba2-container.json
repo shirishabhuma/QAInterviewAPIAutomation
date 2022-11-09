@@ -1,0 +1,1 @@
+{"uuid":"7790f084-bb58-45f9-91f8-f3297789eba2","name":"com.QAInterviewBooks.api.tests.TestPOSTBook","children":["013e4317-299c-48c8-9251-6faa9e91d8bd"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668005372913,"stop":1668005373495}],"afters":[],"start":1668005372885,"stop":1668005375546}
